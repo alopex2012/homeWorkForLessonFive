@@ -44,6 +44,7 @@
     $rect->Info();
     echo "Періметр прямокутника: " . $rect->getPerimeter() . "<br />";
     echo "Площа прямокутника: " . $rect->getSquare();
+    echo "<hr />";
     ?>
 </body>
 
