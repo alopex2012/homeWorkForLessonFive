@@ -9,7 +9,7 @@
 </head>
 
 <body>
-    //Added newbranch
+
     <h5>Заняття 5. Методи</h5>
     <hr>
     <?php
