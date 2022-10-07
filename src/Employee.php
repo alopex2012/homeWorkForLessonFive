@@ -1,5 +1,7 @@
 <?php
 
+namespace Lessons;
+
 class Employee
 {
     private $name;
